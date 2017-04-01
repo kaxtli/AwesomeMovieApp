@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Awesome Movie App</string>
+    <string name="dev_name">Kaxtli</string>
+    <string name="generic_error">Lo siento. Algo salió mal, intenta de nuevo más tarde.</string>
 </resources>
